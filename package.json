@@ -1,0 +1,14 @@
+{
+  "name": "node-caldav-client",
+  "description": "node-caldav-client",
+  "author": "Christian Blaschke <mail@platdesign.de>",
+  "version": "0.0.1",
+  "dependencies": {
+    "extend": "^2.0.0",
+    "ical": "^0.3.1",
+    "q": "^1.1.2",
+    "request": "^2.53.0",
+    "xml2js": "^0.4.4"
+  },
+  "repository": ""
+}
